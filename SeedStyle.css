@@ -1,3 +1,19 @@
+@font-face {
+    font-family: Cookie;
+    src: url("fonts/Cookie-Regular.ttf");
+}
+@font-face {
+    font-family: Dancing;
+    src: url("fonts/Dancing.ttf");
+}
+@font-face {
+    font-family: Berkshire;
+    src: url("fonts/Berkshire.ttf");
+}
+* {
+    font-family: Berkshire;
+}
+
 /* #region Seed FrameWork */
 * {
     padding: 0;
