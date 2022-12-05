@@ -10,4 +10,5 @@ View Bootstrap documentation offline ==> Just download the file as zip and then 
 Use bootstrap without internet :)
 
 Thank you.
+
 ![alt text](https://getbootstrap.com/docs/5.2/assets/img/bootstrap-icons.png)
